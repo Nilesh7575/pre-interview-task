@@ -4,7 +4,7 @@ import { Card, Form } from 'react-bootstrap'
 import CreatePostModal from './CreatePostModal'
 import { FaCommentAlt, FaEdit, FaTrash } from 'react-icons/fa';
 import { MdEdit } from 'react-icons/md';
-import { GrSend, GrClose } from 'react-icons/gr';
+import { GrClose } from 'react-icons/gr';
 import { RiSendPlaneFill } from 'react-icons/ri';
 import { BsFillReplyFill } from 'react-icons/bs';
 import { TiDelete } from 'react-icons/ti';
